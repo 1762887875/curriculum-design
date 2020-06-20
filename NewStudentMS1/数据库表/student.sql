@@ -1,0 +1,4 @@
+INSERT INTO `student`(`ID`, `Sname`, `Ssex`, `Sage`, `Stel`, `Sacademy`, `Sclass`, `Saddress`, `Spassword`) VALUES ('1', '小爱同学', '男', 99, '66666666666', '计算机科学与技术学院', '计科1801班', '山东济南', '1');
+INSERT INTO `student`(`ID`, `Sname`, `Ssex`, `Sage`, `Stel`, `Sacademy`, `Sclass`, `Saddress`, `Spassword`) VALUES ('2018030137', '张银铭', '男', 21, '19862125519', '计算机科学与技术学院', '计科1801班', '山东泰安', '123456');
+INSERT INTO `student`(`ID`, `Sname`, `Ssex`, `Sage`, `Stel`, `Sacademy`, `Sclass`, `Saddress`, `Spassword`) VALUES ('2018030138', '董小磊', '男', 21, '19862125538', '计算机科学与技术学院', '计科1801班', '山东日照', '123456');
+INSERT INTO `student`(`ID`, `Sname`, `Ssex`, `Sage`, `Stel`, `Sacademy`, `Sclass`, `Saddress`, `Spassword`) VALUES ('2018030139', '黄狄', '男', 20, '15964893198', '计算机科学与技术学院', '计科1801班', '山东临沂', '123456');
